@@ -1,4 +1,4 @@
-# iniharrout.github.io
+
 # Nihar Ranjan Rout
 
 Are you in search of a skilled and versatile technologist who can bring your innovative ideas to life? Meet Nihar - a seasoned expert in web design and development, mobile application development, custom software development, MVP development, UI/UX design, and Progressive Web App development.
